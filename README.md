@@ -1,4 +1,4 @@
-# test_repo
+# Test Repo
 This is an example repository to demo Github and git
 
 ## Github notes
